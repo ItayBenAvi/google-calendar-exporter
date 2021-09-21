@@ -130,3 +130,5 @@ dmypy.json
 
 # PyCharm
 .idea
+client_secret.json
+token.json
